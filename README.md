@@ -1,5 +1,7 @@
 # Collapsar
 
+![RedCinnamoroll](/assets/RedCinnamoroll.png)
+
 ## alpha.0
 
 - 游戏整体框架搭建
