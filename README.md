@@ -16,6 +16,4 @@ Collapsar 是一款极具创意的 Rougelike 塔防游戏，将随机与构筑�
 - 游戏主要场景搭建
 - 游戏可以实验性游玩
 
-功能介绍及已知问题参考 [RedCinnamoroll Alpha 阶段发布说明](https://bbs.csdn.net/topics/618631461)
-
 如果在游玩过程中遇到其他问题可以通过 issue 提出或联系开发人员。
